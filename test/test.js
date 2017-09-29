@@ -62,6 +62,9 @@ describe("Getty api call", function() {
         });
     }); 
     
+    //it()
     
     
+    
+
 }); 
